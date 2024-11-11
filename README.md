@@ -3,6 +3,9 @@
 ## Overview
 This is the frontend of the Task Manager application, where users can create, update, and delete tasks. It is built using the Next.js framework and Apollo Client for API calls.
 
+## Online access
+You can access the app online by using this link: https://task-manager-client-dmuv.onrender.com
+
 ## Features
 - User-friendly interface for managing tasks
 - Create new tasks
