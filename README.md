@@ -14,7 +14,7 @@ This is the frontend of the Task Manager application, where users can create, up
 To set up this project locally, follow these steps:
 
 1. Clone the repository:
-    git clone https://github.com/your-username/task-manager-frontend.git
+    git clone https://github.com/Adri-El/task_manager_client.git
 
 2. Navigate to the project directory: cd task-manager-frontend
     cd task_manager_client
