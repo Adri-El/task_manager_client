@@ -6,6 +6,8 @@ This is the frontend of the Task Manager application, where users can create, up
 ## Online access
 You can access the app online by using this link: https://task-manager-client-dmuv.onrender.com
 
+You can also access the git repo via this link: https://github.com/Adri-El/task_manager_client.git
+
 ## Features
 - User-friendly interface for managing tasks
 - Create new tasks
